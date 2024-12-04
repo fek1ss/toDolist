@@ -30,7 +30,7 @@ Frontend
 Installation and Setup
   1. Clone or Download the Repository:
     Clone this repository to your local machine using:
-      git clone "<repository-url>"
+      git clone "repository-url"
 
 
   2. Open in Browser:
